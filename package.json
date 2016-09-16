@@ -1,0 +1,11 @@
+{
+  "name": "vmc-beats",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "~4.5.1",
+    "method-override": "~2.0.2",
+    "mongoose": "~3.8.0",
+    "spotify-web-api-node": "^2.3.5"
+  }
+}
